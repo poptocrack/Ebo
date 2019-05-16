@@ -1,10 +1,12 @@
----
-description: >-
-  Ebo is a boilerplate made with the best tools for react-native. It will let
-  you build your app in no time, with an easy to setup user auth via firebase.
----
-
 # Ebo documentation
+
+Ebo is a boilerplate made with the best tools for react-native. It will let you build your app in no time, with an easy to setup user auth via firebase.  
+This project is WIP so there will be more features coming.  
+With Ebo:  
+Made with Expo  
+Authentification with Facebook and Google  
+Firebase \(web features\), firestore  
+React Navigation
 
 ## Requirements
 
