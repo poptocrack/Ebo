@@ -26,9 +26,7 @@ Once you did, you must install the dependencies:
 
 ```
 $ cd your-project-name
-$ npm install
-or
-$ yarn
+$ yarn or npm install
 $ expo start
 ```
 
